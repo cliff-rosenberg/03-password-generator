@@ -7,7 +7,7 @@ This project uses Javascript to put together a random password given a length an
 
 ## Installation
 
-This project requires no installation. The files can be copied to a directory and run from there if the original folder levels are preserved.
+This project requires no installation.
 
 ## Usage
 Currently hosted at Github Pages: [Password Generator](https://cliff-rosenberg.github.io/03-password-generator/)
