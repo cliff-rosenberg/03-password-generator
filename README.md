@@ -7,9 +7,10 @@ This project uses Javascript to put together a random password given a length an
 
 ## Installation
 
-This project requires no installation. The files can be copied to a directory and run from their if the original folder levels are preserved.
+This project requires no installation. The files can be copied to a directory and run from there if the original folder levels are preserved.
 
 ## Usage
+Currently hosted at Github Pages: [Password Generator](https://cliff-rosenberg.github.io/03-password-generator/)
 
 Opening 'index.html' in a web browser will bring up the main screen. Clicking on the 'Generate Password' button starts the process. You will be asked how long the password will be (8 to 128 characters), if you want uppercase characters to be used, lowercase characters, numeric characters, and special characters to be used. You must choose at least on of the former four choices to have a password be generated.
 
