@@ -12,7 +12,7 @@ This project requires no installation.
 ## Usage
 Currently hosted at Github Pages: [Password Generator](https://cliff-rosenberg.github.io/03-password-generator/)
 
-Opening 'index.html' in a web browser will bring up the main screen. Clicking on the 'Generate Password' button starts the process. You will be asked how long the password will be (8 to 128 characters), if you want uppercase characters to be used, lowercase characters, numeric characters, and special characters to be used. You must choose at least on of the former four choices to have a password be generated.
+Opening 'index.html' in a web browser will bring up the main screen. Clicking on the 'Generate Password' button starts the process. You will be asked how long the password will be (8 to 128 characters), if you want uppercase characters, lowercase characters, numeric characters, and special characters to be used. You must choose at least one of the former four choices to have a password be generated.
 
 <h2><u>Screenshot:</u></h2>
 
